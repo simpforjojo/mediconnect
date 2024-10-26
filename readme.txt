@@ -1,32 +1,52 @@
-Bootstrap/HTML5 Responsive Template
 
-Medplus bootstrap medical template is a clean modern designed Bootstrap template for a single page lovers, This template fits in all types of requirments like the Doctors, Medical, Dentists, Health Consultants, agency, consultancy, portfolio and many more. This template is built using latest Bootstrap 3.2, html5 and css3 which is easy and simple to customeise the theme as per your requirements. This template meet the latest requirment and it is fully responsive template fits in all devices with multi browser support. Start Download.
+# MediConnect 🌐
 
-Credits :
--------
-=> Design and developed: "WebThemez"  http://webthemez.com
-=> Photos used in template: **Unsplash** - http://unsplash.com
-=> For more free web themes: http://webthemez.com
-=> Framework : http://getbootstrap.com
+**MediConnect** is a digital health platform focused on improving health outcomes for underserved communities. We address the **Social Determinants of Health (SDOH)** with tech-driven solutions for accessible healthcare, environmental awareness, health literacy, and community engagement.
 
-Important Note:
----------------
-To remove backlink from the template, you need to donate to remove the backlink from the template.
-Any question contact us: webthemez@gmail.com
+---
 
+## 🌟 Features
+- **Remote Monitoring**
+  - Devices like smartwatches allow patients to monitor chronic conditions and connect with healthcare providers online for timely support.
 
-License :
--------
-**Creative Commons Attribution 3.0** - http://creativecommons.org/licenses/by/3.0/
+- **Interactive Chatbot: MediBot**
+  - A virtual health assistant that answers questions, offers guidance, and engages users with interactive learning.
 
-- You are allowed to use all files for both personal and commercial projects.
+- **Health Education**
+  - Gamified learning and video content help users gain health literacy. Premium plans unlock personalized, one-on-one sessions.
 
-- If you use/modify the resources in your projects,we�d appreciate a linkback to this site.
+- **Environmental Hazard Alerts**
+  - Real-time notifications on pollution or weather hazards based on location, powered by IoT sensors and navigation APIs.
 
-- You do not have rights to redistribute,resell or offer files from this site to any third party
+- **Economic Incentives**
+  - Rewarded points for healthy choices can be redeemed for discounts with partnered providers, helping make healthcare more accessible.
 
-- If you wish to remove backlink from the template, you need to donate min USD $10 to remove backlink (credits) form the template
+- **Community Engagement**
+  - Connect with others through our **Medisphere** community, share achievements, and access local support groups for mental and social wellness.
 
-- If you have any question,feel free to contact us at webthemez@gmail.com
+---
 
-- All images user here is for demo purpose only, we are not responsible for any copyrights.
+## 📄 Plans
+
+| Plan        | Price   | Features                                                                                     |
+|-------------|---------|----------------------------------------------------------------------------------------------|
+| **Basic**   | Free    | Free educational videos, community access, environmental alerts                              |
+| **Plus**    | $19/mo  | Includes Basic features + gamified learning, discounts on health-related purchases           |
+| **Pro**     | $49/mo  | All features + one-on-one professional sessions and access to Medisphere premium community   |
+
+---
+
+## 💬 Contact Us
+
+For inquiries or support:
+- **Email**: support@mediconnect.com
+- **Phone**: +91 9487517333
+- **Visit Us**: [MediConnect Support Center](https://mediconnect.com/contact)
+
+---
+
+## 🔔 Latest News
+
+Stay updated on our latest advancements in SDOH solutions, new features, and health initiatives. Sign up for our mailing list to never miss an update.
+
+---
