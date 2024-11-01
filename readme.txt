@@ -3,6 +3,8 @@
 
 **MediConnect** is a digital health platform focused on improving health outcomes for underserved communities. We address the **Social Determinants of Health (SDOH)** with tech-driven solutions for accessible healthcare, environmental awareness, health literacy, and community engagement.
 
+**Directions**: -Download the repository.
+                -Host index.html locally through liveserver or direct hosting
 ---
 
 ## 🌟 Features
