@@ -35,20 +35,3 @@
 | **Basic**   | Free    | Free educational videos, community access, environmental alerts                              |
 | **Plus**    | $19/mo  | Includes Basic features + gamified learning, discounts on health-related purchases           |
 | **Pro**     | $49/mo  | All features + one-on-one professional sessions and access to Medisphere premium community   |
-
----
-
-## 💬 Contact Us
-
-For inquiries or support:
-- **Email**: support@mediconnect.com
-- **Phone**: +91 9487517333
-- **Visit Us**: [MediConnect Support Center](https://mediconnect.com/contact)
-
----
-
-## 🔔 Latest News
-
-Stay updated on our latest advancements in SDOH solutions, new features, and health initiatives. Sign up for our mailing list to never miss an update.
-
----
